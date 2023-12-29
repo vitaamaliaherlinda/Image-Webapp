@@ -1,5 +1,5 @@
 # Image-Webapp
-Nama : Vita Amalia Herlinda
+Nama : Vita Amalia Herlinda  
 Nim : 202010370311336
 
 ## Berikut adalah langkah-langkah yang lebih rinci untuk menerapkan model machine learning sebagai aplikasi web menggunakan Flask:  
